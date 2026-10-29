@@ -181,6 +181,8 @@ for name, prediction in models.items():
     print()
 ## MODEL COMPARISON
 <img width="591" height="191" alt="image" src="https://github.com/user-attachments/assets/6bb058f3-4231-475d-92d1-2e64233ac6a0" />
+
+<img width="1024" height="345" alt="image" src="https://github.com/user-attachments/assets/5b343736-73a1-4e58-9f85-db0b9c1c1596" />
 Comparison
 •	Higher Accuracy → Better overall classification. 
 •	Higher Precision → Fewer false-positive predictions. 
